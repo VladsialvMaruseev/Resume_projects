@@ -1,2 +1,2 @@
 # Resume_projects
-My projects for resume
+В данном репозитории содержаться мои работы для резюме
