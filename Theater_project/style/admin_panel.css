@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Open+Sans+Condensed:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.header_container {
+    margin: 30px 0px;
+    align-items: baseline;
+    display: flex;
+    justify-content: space-between;
+}
+.header_container a{
+    text-decoration: none;
+    color: #0E47A2;
+}
+
+.tite{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.tmp_list li{
+    list-style: none;
+}
+
+p{
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.tmp_list{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F5F5F7;
+    margin: 30px 0px 30px 0px;
+    border: 1px solid black;
+}
